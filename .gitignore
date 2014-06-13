@@ -1,73 +1,16 @@
-#### Own additions ####
+## Own additions
 # None atm
 
-#### GITHUB DEFAULT ####
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Icon must ends with two \r.
-Icon
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-#### From Stackoverflow ####
-# =============== #
-# Unity generated #
-# =============== #
-Temp/
-Library/
-
-# ===================================== #
-# Visual Studio / MonoDevelop generated #
-# ===================================== #
-ExportedObj/
-obj/
-*.svd
+## From http://t-machine.org/index.php/2012/07/03/unity-git-source-control-a-basic-gitignore/
+*.sln
 *.userprefs
-/*.csproj
+*.csproj
 *.pidb
-*.suo
-/*.sln
-*.user
 *.unityproj
-*.booproj
-
-# ============ #
-# OS generated #
-# ============ #
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+/Library/FailedAssetImports.txt
+/Library/cache/
+/Library/previews/
+/Library/ScriptAssemblies
+/obj
+/Temp
