@@ -1,5 +1,6 @@
 ## Own additions
-# None atm
+*.blend1
+*.blend2
 
 ## From http://t-machine.org/index.php/2012/07/03/unity-git-source-control-a-basic-gitignore/
 *.sln
